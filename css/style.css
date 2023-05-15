@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(191, 233, 233);
+}
+h1 {
+    color: #f10e0e;
+}
+h2 {
+    color: #f10e0e;
+}
+
+footer {
+    margin-top: auto;
+    background: #97da1a;
+    height: 3rem;
+  }
